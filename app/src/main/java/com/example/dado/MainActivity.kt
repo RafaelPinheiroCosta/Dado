@@ -54,7 +54,7 @@ fun RolaDado(){
             }
         ) {
             Text(
-                text ="Rolar"
+                text ="Rolar "
             )
         }
     }
